@@ -1,0 +1,23 @@
+{
+  "name": "proj-jasmine-demo",
+  "version": "1.0.0",
+  "description": "Jasmine based BDD testing environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steve-Reid/proj-jasmine-demo.git"
+  },
+  "keywords": [
+    "jasmine",
+    "test"
+  ],
+  "author": "Steve Reid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Steve-Reid/proj-jasmine-demo/issues"
+  },
+  "homepage": "https://github.com/Steve-Reid/proj-jasmine-demo#readme"
+}
