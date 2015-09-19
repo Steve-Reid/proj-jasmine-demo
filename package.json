@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/Steve-Reid/proj-jasmine-demo/issues"
   },
-  "homepage": "https://github.com/Steve-Reid/proj-jasmine-demo#readme"
+  "homepage": "https://github.com/Steve-Reid/proj-jasmine-demo#readme",
+  "devDependencies": {
+    "grunt-karma": "*",
+    "karma-jasmine": "*",
+    "karma-phantomjs-launcher": "*"
+  }
 }
